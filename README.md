@@ -7,9 +7,10 @@ Port is used to create tunnels like Serveo if you don’t have port forwarding.
 ## Installing Port
 
 Run this command in your terminal:
+```
 
-bash <(curl -fsSL https://raw.githubusercontent.com/steeldevlol/port/refs/heads/main/install)
-
+bash <(curl -fsSL https://raw.githubusercontent.com/JoyelTheDev/port/refs/heads/main/install)
+```
 ---
 
 ## How to Use Port?
