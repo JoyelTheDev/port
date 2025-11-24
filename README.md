@@ -20,7 +20,3 @@ Run the following to see all available commands:
 port help
 
 ---
-
-## Need Help?
-
-Join our [Discord server](https://discord.gg/CyCVdGBmWH/)
